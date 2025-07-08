@@ -1,0 +1,28 @@
+{
+  "name": "zar_discordroles",
+  "version": "1.0.0",
+  "description": "A module used to determine roles of players within FiveM via Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zee-The-Dev/FIVEM_ZAR_discordRoles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zee-The-Dev/FIVEM_ZAR_discordRoles/issues"
+  },
+  "homepage": "https://github.com/Zee-The-Dev/FIVEM_ZAR_discordRoles#readme",
+  "engines": {
+    "node": ">=16.7.0 <=16.9.1"
+  },
+  "dependencies": {
+    "discord.js": "^13.15.0",
+    "ws": "^8.0.0"
+  }
+}
